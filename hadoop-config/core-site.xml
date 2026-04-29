@@ -1,0 +1,9 @@
+<configuration>
+
+    <!-- Default filesystem (points to your HDFS NameNode container) -->
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://namenode:9000</value>
+    </property>
+
+</configuration>
