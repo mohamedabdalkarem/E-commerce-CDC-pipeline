@@ -159,7 +159,7 @@ docker exec ecom_kafka kafka-console-consumer \
 ```
 
 ---
-
+```
 ## ✅ Prerequisites
 
 | Tool | Min Version | Notes |
@@ -177,7 +177,7 @@ docker exec ecom_kafka kafka-console-consumer \
 
 
 ```
-
+```
 **Running containers and ports:**
 
 | Container | Port(s) | Service |
