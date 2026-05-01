@@ -159,6 +159,7 @@ docker exec ecom_kafka kafka-console-consumer \
 ```
 
 ---
+
 ```
 ## ✅ Prerequisites
 
@@ -172,11 +173,9 @@ docker exec ecom_kafka kafka-console-consumer \
 | Disk | 20 GB+ | Docker images + persistent volumes |
 
 > ℹ️ No local Java, Python, or PostgreSQL installation needed — everything runs inside Docker.
-
+```
 ---
 
-
-```
 ```
 **Running containers and ports:**
 
