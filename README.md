@@ -160,7 +160,7 @@ docker exec ecom_kafka kafka-console-consumer \
 
 ---
 
-```
+
 ## ✅ Prerequisites
 
 | Tool | Min Version | Notes |
@@ -172,11 +172,9 @@ docker exec ecom_kafka kafka-console-consumer \
 | RAM | 8 GB+ | Required for full stack |
 | Disk | 20 GB+ | Docker images + persistent volumes |
 
-> ℹ️ No local Java, Python, or PostgreSQL installation needed — everything runs inside Docker.
-```
+
 ---
 
-```
 **Running containers and ports:**
 
 | Container | Port(s) | Service |
@@ -196,8 +194,6 @@ docker exec ecom_kafka kafka-console-consumer \
 | `ecom_airflow_webserver` | 8085 | Airflow UI |
 
 ---
-
-```
 
 ### Avro Schemas (`./schemas/`)
 
